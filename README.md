@@ -1,5 +1,5 @@
 # 💫 About Me:
-Industrial controls engineer history with Honnywell and Allen Bradley PLCs<br>Built some home assistant servers and home network labs.
+Industrial controls engineer history with Honeywell and Allen Bradley PLCs<br>Built some home assistant servers and home network labs.
 
 
 # 💻 Tech Stack:
